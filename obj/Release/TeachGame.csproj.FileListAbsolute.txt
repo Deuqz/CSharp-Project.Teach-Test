@@ -1,0 +1,17 @@
+C:\Doc\Индивидуальный проект\TeachTest\bin\Release\TeachTest.exe.config
+C:\Doc\Индивидуальный проект\TeachTest\bin\Release\TeachTest.exe
+C:\Doc\Индивидуальный проект\TeachTest\bin\Release\TeachTest.pdb
+C:\Doc\Индивидуальный проект\TeachTest\obj\Release\TeachGame.csprojAssemblyReference.cache
+C:\Doc\Индивидуальный проект\TeachTest\obj\Release\TeachTest.ChooseTheoryAndExercisesForm.resources
+C:\Doc\Индивидуальный проект\TeachTest\obj\Release\TeachTest.ExcercisesForm.resources
+C:\Doc\Индивидуальный проект\TeachTest\obj\Release\TeachTest.PasswordForm.resources
+C:\Doc\Индивидуальный проект\TeachTest\obj\Release\TeachTest.RatingForm.resources
+C:\Doc\Индивидуальный проект\TeachTest\obj\Release\TeachTest.Results.resources
+C:\Doc\Индивидуальный проект\TeachTest\obj\Release\TeachTest.TeacherForm.resources
+C:\Doc\Индивидуальный проект\TeachTest\obj\Release\TeachTest.TheoryForm.resources
+C:\Doc\Индивидуальный проект\TeachTest\obj\Release\TeachTest.TopicsForm.resources
+C:\Doc\Индивидуальный проект\TeachTest\obj\Release\TeachTest.StartForm.resources
+C:\Doc\Индивидуальный проект\TeachTest\obj\Release\TeachTest.Properties.Resources.resources
+C:\Doc\Индивидуальный проект\TeachTest\obj\Release\TeachGame.csproj.GenerateResource.cache
+C:\Doc\Индивидуальный проект\TeachTest\obj\Release\TeachTest.exe
+C:\Doc\Индивидуальный проект\TeachTest\obj\Release\TeachTest.pdb

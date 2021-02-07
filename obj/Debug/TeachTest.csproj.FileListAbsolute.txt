@@ -1,0 +1,24 @@
+D:\Workc_C\TeachTest\bin\Debug\TeachTest.exe.config
+D:\Workc_C\TeachTest\bin\Debug\TeachTest.exe
+D:\Workc_C\TeachTest\bin\Debug\TeachTest.pdb
+D:\Workc_C\TeachTest\obj\Debug\TeachTest.csprojAssemblyReference.cache
+D:\Workc_C\TeachTest\obj\Debug\TeachTest.Form1.resources
+D:\Workc_C\TeachTest\obj\Debug\TeachTest.Properties.Resources.resources
+D:\Workc_C\TeachTest\obj\Debug\TeachTest.csproj.GenerateResource.cache
+D:\Workc_C\TeachTest\obj\Debug\TeachTest.exe
+D:\Workc_C\TeachTest\obj\Debug\TeachTest.pdb
+C:\Doc\Индивидуальный проект\TeachTest\bin\Debug\TeachTest.exe.config
+C:\Doc\Индивидуальный проект\TeachTest\bin\Debug\TeachTest.exe
+C:\Doc\Индивидуальный проект\TeachTest\bin\Debug\TeachTest.pdb
+C:\Doc\Индивидуальный проект\TeachTest\obj\Debug\TeachTest.csprojAssemblyReference.cache
+C:\Doc\Индивидуальный проект\TeachTest\obj\Debug\TeachTest.TheoryForm.resources
+C:\Doc\Индивидуальный проект\TeachTest\obj\Debug\TeachTest.TopicsForm.resources
+C:\Doc\Индивидуальный проект\TeachTest\obj\Debug\TeachTest.StartForm.resources
+C:\Doc\Индивидуальный проект\TeachTest\obj\Debug\TeachTest.Properties.Resources.resources
+C:\Doc\Индивидуальный проект\TeachTest\obj\Debug\TeachTest.csproj.GenerateResource.cache
+C:\Doc\Индивидуальный проект\TeachTest\obj\Debug\TeachTest.exe
+C:\Doc\Индивидуальный проект\TeachTest\obj\Debug\TeachTest.pdb
+C:\Doc\Индивидуальный проект\TeachTest\obj\Debug\TeachTest.ChooseTheoryAndExercisesForm.resources
+C:\Doc\Индивидуальный проект\TeachTest\obj\Debug\TeachTest.ExcercisesForm.resources
+C:\Doc\Индивидуальный проект\TeachTest\obj\Debug\TeachTest.RatingForm.resources
+C:\Doc\Индивидуальный проект\TeachTest\obj\Debug\TeachTest.Results.resources
